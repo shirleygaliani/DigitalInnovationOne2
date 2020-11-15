@@ -1,1 +1,3 @@
-![Farmers Market Finder Demo](img/gif2.gif)
+Demonstração da interface Netflix
+
+![Demonstração da interface Netflix](img/gif2.gif)
