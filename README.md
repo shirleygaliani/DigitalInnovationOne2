@@ -1,1 +1,1 @@
-![Farmers Market Finder Demo](gif2/gif2.gif)
+![Farmers Market Finder Demo](img/gif2.gif)
